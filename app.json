@@ -1,0 +1,7 @@
+{
+    "name": "meroxa-app-create-test",
+    "language": "python",
+    "resources": {
+        "source_name": "fixtures/none.json"
+    }
+}
