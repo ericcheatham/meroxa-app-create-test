@@ -2,6 +2,6 @@
     "name": "meroxa-app-create-test",
     "language": "python",
     "resources": {
-        "source_name": "fixtures/none.json"
+        "source_name": "fixtures/demo-no-cdc.json"
     }
 }
